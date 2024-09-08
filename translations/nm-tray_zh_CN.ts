@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_Hans">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>ConnectionInfo</name>
     <message>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <location filename="../src/nmmodel.cpp" line="753"/>
-        <source>wifi network(s)</source>
+        <source>Wi-Fi network(s)</source>
         <translation>wifi 网络</translation>
     </message>
     <message>
@@ -237,7 +237,7 @@
     </message>
     <message>
         <location filename="../src/tray.cpp" line="260"/>
-        <source>Wifi - request scan</source>
+        <source>Wi-Fi - request scan</source>
         <translation>Wifi - 需要扫描</translation>
     </message>
     <message>
