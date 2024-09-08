@@ -62,7 +62,7 @@
     <message>
         <location filename="../src/nmmodel.cpp" line="753"/>
         <source>Wi-Fi network(s)</source>
-        <translation>wifi 网络</translation>
+        <translation>Wi-Fi 网络</translation>
     </message>
     <message>
         <location filename="../src/nmmodel.cpp" line="1044"/>
@@ -238,7 +238,7 @@
     <message>
         <location filename="../src/tray.cpp" line="260"/>
         <source>Wi-Fi - request scan</source>
-        <translation>Wifi - 需要扫描</translation>
+        <translation>Wi-Fi - 需要扫描</translation>
     </message>
     <message>
         <location filename="../src/tray.cpp" line="261"/>
